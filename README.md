@@ -3,4 +3,5 @@ Uma automação web com selenium, onde o programa procura cada produto no Google
 
 # Link dos videos no youtube
 Rodando código do projeto automação: https://youtu.be/iPJZ48rIqdM?si=dAAvfWdye-YZlxXA
+
 Funcionamento web do projeto: https://youtu.be/BSByGogSZdo?si=A1DY54jR-LcLWBNv
